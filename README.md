@@ -32,7 +32,7 @@ The design focuses on simplicity and usability, allowing users to manage their r
 ![Add Recipe](screenshots/add-recipe.png)
 
 ### Edit Profile (Modal)
-![Edit Profile](screenshots/edit-profile-modal.png)
+![Edit Profile](screenshots/profile-edit.png)
 
 ---
 
